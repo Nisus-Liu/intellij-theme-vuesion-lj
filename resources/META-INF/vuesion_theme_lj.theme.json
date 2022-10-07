@@ -136,12 +136,12 @@
     },
 
     "FileColor": {
-      "Yellow": "#202831",
-      "Green": "#202831",
-      "Blue": "#202831",
-      "Violet": "#202831",
-      "Orange": "#202831",
-      "Rose": "#202831"
+      "Yellow": "#fffdd0",
+      "Green": "#36bf36",
+      "Blue": "#00808c",
+      "Violet": "#6640ff",
+      "Orange": "#ffbf00",
+      "Rose": "#ff66cc"
     },
 
     "InplaceRefactoringPopup": {
@@ -163,7 +163,7 @@
     "NavBar.borderColor": "#303a45",
 
     "Notification": {
-      "background": "#202831",
+      "background": "#f0fff0",
 
       "errorForeground": "#ececee",
       "errorBackground": "#70011f",

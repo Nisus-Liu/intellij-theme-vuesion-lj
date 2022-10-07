@@ -24,8 +24,9 @@
 
 ```
 1. Build >> Build Project
-2. cd .\out\production\intellij-theme-vuesion-lj\ 
-2. jar -cf intellij-theme-vuesion-lj.jar ./
+2. cd .\out\production\intellij-theme-vuesion-lj\
+3. jar -cf intellij-theme-vuesion-lj.jar ./
+4. 从磁盘安装刚打包的主题插件
 ```
 
 ---
