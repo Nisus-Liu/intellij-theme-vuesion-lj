@@ -1,11 +1,12 @@
 <idea-plugin>
-  <id>com.herokuapp.vuesion</id>
-  <name>Vuesion Theme</name>
-  <version>1.9.2</version>
+  <id>com.herokuapp.vuesion.lj</id>
+  <name>Vuesion Theme LJ</name>
+  <version>1.0.1-1.9.2</version>
   <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
   <idea-version since-build="192.0"/>
 
   <description><![CDATA[
+    <p>Copy and custom of 'Vuesion Theme' .</p>
     <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
     <br/>
     Theme and color scheme based on the <a href="https://github.com/vuesion/vuesion" target="_blank">vuesion project</a>.
@@ -13,7 +14,7 @@
 
   <change-notes><![CDATA[
     <ul>
-      <li>fix: update color of Scala traits & abstract classes</li>
+      <li>refactor: custom</li>
     </ul>
     ]]></change-notes>
 
@@ -22,7 +23,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="76fa3cce-3d85-455b-a7b6-551f4c8a03d7" path="/META-INF/vuesion_theme.theme.json"/>
+    <themeProvider id="com.nisus.intellij-theme-vuesion-lj" path="/META-INF/vuesion_theme_lj.theme.json"/>
   </extensions>
 
   <actions>
