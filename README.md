@@ -3,7 +3,7 @@
 **[Plugin Homepage](https://plugins.jetbrains.com/plugin/12226-vuesion-theme)**
 
 > This repos is fork from 'vuesion-theme' and DIY.
-> Fork from: git@github.com:vuesion/intellij-theme.git
+> Fork from: https://github.com/vuesion/intellij-theme
 
 ![vuesion-theme](https://user-images.githubusercontent.com/1667598/55831298-0fda9400-5b13-11e9-8780-9ada6dd764cf.png)
 
