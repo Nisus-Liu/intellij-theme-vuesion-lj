@@ -1,20 +1,19 @@
 <idea-plugin>
-  <id>com.herokuapp.vuesion.lj</id>
-  <name>Vuesion Theme LJ</name>
+  <id>com.nisus.my-classic-eclipse</id>
+  <name>My Classic Eclipse Theme</name>
   <version>1.0.1-1.9.2</version>
-  <vendor email="johannes.werner86@gmail.com" url="https://vuesion.herokuapp.com">vuesion</vendor>
+  <vendor email="liuhejun108@163.com" url="https://github.com/Nisus-Liu">Nisus</vendor>
   <idea-version since-build="192.0"/>
 
   <description><![CDATA[
-    <p>Copy and custom of 'Vuesion Theme' .</p>
-    <p>Vuesion <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
+    <p>My Classic Eclipse</p>
+    <p>My Classic Eclipse <i>theme</i> and <i>color scheme</i> for IntelliJ®, Webstorm® and other Jetbrains® IDEs.</p>
     <br/>
-    Theme and color scheme based on the <a href="https://github.com/vuesion/vuesion" target="_blank">vuesion project</a>.
     ]]></description>
 
   <change-notes><![CDATA[
     <ul>
-      <li>refactor: custom</li>
+      <li>feat: release</li>
     </ul>
     ]]></change-notes>
 
@@ -23,7 +22,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="com.nisus.intellij-theme-vuesion-lj" path="/META-INF/vuesion_theme_lj.theme.json"/>
+    <themeProvider id="com.nisus.my-classic-eclipse" path="/META-INF/my_classic_eclipse.theme.json"/>
   </extensions>
 
   <actions>
